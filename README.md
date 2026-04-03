@@ -13,7 +13,7 @@ Simulador-de-Convolución-con-Impulsos
 https://manueldelahoz.github.io/Simulador-de-Convoluci-n-con-Impulsos/
 
 Fórmula de Euler: Síntesis de Sinusoides
-https://krh-dev.github.io/F-rmula_de_Euler-S-ntesis_de_Sinusoides/
+https://manueldelahoz.github.io/F-rmula_de_Euler-S-ntesis_de_Sinusoides/
 
 #### Redes de Acceso y Comunicaciones Opticas
 
