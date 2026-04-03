@@ -7,7 +7,7 @@ formula-de-euler-interactiva:
 https://manueldelahoz.github.io/formula-de-euler-interactiva/
 
 sinc-ctft-interactivo
-https://krh-dev.github.io/sinc-ctft-interactivo/
+https://manueldelahoz.github.io/sinc-ctft-interactivo/
 
 Simulador-de-Convolución-con-Impulsos
 https://krh-dev.github.io/Simulador-de-Convoluci-n-con-Impulsos/
