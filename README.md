@@ -19,4 +19,4 @@ https://manueldelahoz.github.io/F-rmula_de_Euler-S-ntesis_de_Sinusoides/
 
 emision-estimulada-interactiva
 
-https://krh-dev.github.io/emision-estimulada-interactiva/
+https://manueldelahoz.github.io/emision-estimulada-interactiva/
